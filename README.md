@@ -140,6 +140,6 @@ Peerless is open-source under the **MIT License**.
 ---
 
 📄 **Need more help?**  
-Contact the maintainers at `support@peerlessapp.com`.  
+Contact the maintainers at `ubahyusuf484@gmail.com`.  
 
 🚀 **Happy Coding!**
