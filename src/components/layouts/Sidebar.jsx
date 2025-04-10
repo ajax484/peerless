@@ -54,7 +54,7 @@ const Sidebar = () => {
         <img src={logo} className="w-[150px] h-[60px]" />
       </div>
       <nav className="py-3">
-        <ul className="flex flex-col p-3 space-y-1">
+        <ul className="flex flex-col p-3 space-y-2">
           {links.map((link) => (
             <li key={link.label}>
               <Link to={"/form"}>
@@ -62,7 +62,7 @@ const Sidebar = () => {
                   className={`font-medium flex items-center gap-2 text-white text-sm p-3 rounded-xl ${
                     link.label === "Nintendo"
                       ? "bg-[#A93636]"
-                      : "bg-transparent"
+                      : "bg-transparent hover:bg-green-900"
                   }`}
                 >
                   <img src={link.logo} className="size-6" />
