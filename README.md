@@ -19,7 +19,7 @@ It provides a seamless user experience with fast loading, responsive design, and
 ### **Installation**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-repo/peerless.git
+   git clone https://github.com/ajax484/peerless.git
    ```
 2. Navigate to the project directory:  
    ```bash
