@@ -6,7 +6,7 @@
 - **Vite** (Fast build tool)  
 - **Tailwind CSS** (Utility-first styling)  
 
-It provides a seamless user experience with fast loading, responsive design, and customizable UI components.  
+It provides a seamless user experience with fast loading.
 
 ---
 
