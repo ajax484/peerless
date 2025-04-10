@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+.card:hover .card-svg {
+  transition: all 0.3s ease-in-out;
+  filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);
+}
+
+select {
+  background-image: url("./assets/arrow-down-gray.svg");
+  background-repeat: no-repeat;
+  background-position: right 0.5rem center;
+  background-size: 1.5em;
+  padding-right: 2.5rem;
+  appearance: none;
+}
